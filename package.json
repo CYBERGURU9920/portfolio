@@ -1,10 +1,11 @@
 {
   "name": "prateek-portfolio",
   "version": "1.0.0",
-  "scripts": {
+"scripts": {
   "build": "npx vite build",
   "dev": "vite"
 }
+
 ,
   "devDependencies": {
     "vite": "^6.2.5"
